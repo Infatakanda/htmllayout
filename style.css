@@ -1,0 +1,110 @@
+.header{
+    height: 100px;
+    background-color: aqua;
+}
+
+.wrapper, .container {
+     overflow: hidden; 
+
+}
+
+.blog{
+background-color: red;
+height: 200px;
+width: 70%;
+float: left;
+}
+
+.contact{
+background-color: black;
+height: 200px;
+width: 30%;
+float: right;
+}
+
+
+.item1{
+float: left;
+background-color: green;
+width: 33.33%;
+height: 130px;
+}
+
+.item2{
+float: left;
+background-color: orange;
+width: 33.33%;
+height: 130px;
+}
+
+.item3{
+    float: left;
+    background-color: aquamarine;
+    width: 33.33%;
+    height: 130px;
+}
+
+.items1{
+    float: left;
+    background-color: brown;
+    width: 25%;
+    height: 130px;
+}
+.items2{
+    float: left;
+    background-color: black;
+    width: 25%;
+    height: 130px;
+}
+.items3{
+    float: left;
+    background-color: orangered;
+    width: 25%;
+    height: 130px;
+}
+.items4{
+    float: left;
+    background-color: brown;
+    width: 25%;
+    height: 130px;
+}
+
+
+.itemss1{
+    float: left;
+    background-color: chartreuse;
+    height: 150px;
+    width: 20%;
+}
+.itemss2{
+    float: left;
+    background-color: gray;
+    height: 150px;
+    width: 20%;
+}
+.itemss3{
+    float: left;
+    background-color: gainsboro;
+    height: 150px;
+    width: 20%;
+}
+.itemss4{
+    float: left;
+    background-color: rebeccapurple;
+    height: 150px;
+    width: 20%;
+}
+.itemss5{
+    float: left;
+    background-color: chartreuse;
+    height: 150px;
+    width: 20%;
+}
+
+
+.below {
+    
+    background-color: aqua;
+    height: 100px;
+
+}
